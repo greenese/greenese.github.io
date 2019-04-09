@@ -1,3 +1,13 @@
+/**
+* This class simulates an AI that has the 
+* capability to play Tetris and learn
+* from each game it plays
+* 
+* @author Seth Greene
+* @author Alec Allain
+* @version 4/1/19
+*/
+
 function AI(heightWeight, linesWeight, holesWeight, bumpinessWeight){
     this.heightWeight = heightWeight;
     this.linesWeight = linesWeight;
