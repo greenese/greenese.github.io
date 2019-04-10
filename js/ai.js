@@ -8,10 +8,6 @@
 * @version 4/1/19
 */
 
-//heightWeight, linesWeight, holesWeight, bumpinessWeight, grid, workingPieces, workingPiecesIndex
-
-//best, bestScore, workingPiece, _piece, score, 
-
 /*
 * Constructor for JavaScript Tetris AI bot
 */
