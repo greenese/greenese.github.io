@@ -44,7 +44,11 @@ TetrisBot.prototype.determineBestMove = function(gameBoard, currentShapes, shape
         shapeCopy.rotate(gameBoard);
 
         // Shapes get moves right continuously until it hits boundaries and the shape must stay in a valid position 
-        while(shapeCopy.moveRight(gameBoard) == true && gameBoard.valid(shapeCopy == true)) {
+        while(gameBoard.valid(shapeCopy == true)) {
+
+            if (shapeCopy.canMoveRight(gameBoard) = true) {
+                shapeCopy.moveRight();
+            }
             
             // Piece gets added to gameboard and shifted around to see best fit
             while(shapeCopy.moveDown(gameBoardCopy) != false) {
