@@ -10,7 +10,7 @@ function GameManager(){
 
     var grid = new Grid(22, 10);
     var rpg = new RandomPieceGenerator();
-    var ai = new AI(0.510066, 0.760666, 0.35663, 0.184483);
+    var ai = new TetrisBot(0.619362, 0.321452, 0.40323);
     var workingPieces = [null, rpg.nextPiece()];
     var workingPiece = null;
     var isAiActive = true;
@@ -23,7 +23,7 @@ function GameManager(){
         return 'rgb(' + ((v >> 16) & 0xFF) + ',' + ((v >> 8) & 0xFF) + ',' + (v & 0xFF) + ')';
     }
 
-    function redrawGridCanvas(workingPieceVerticalOffset = 0){
+    function redrawGridCanvas(workingPieceVerticalOffset = 0) {
         gridContext.save();
 
         // Clear
