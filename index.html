@@ -23,7 +23,10 @@
     </div>
     <hr>
     <div class="footer">
-        <p>Created by <a href="http://codemyroad.wordpress.com" target="#">Yiyuan Lee</a>. Read more about the AI <a href="http://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/" target="#">here</a>.</p>
+        <p>Created by <a href="http://codemyroad.wordpress.com" target="#">Yiyuan Lee</a>. 
+
+          #Read more about the AI <a href="http://codemyroad.wordpress.com/2013/04/14/tetris-ai-the-near-perfect-player/" target="#">here</a>.
+        </p>
     </div>
 </div>
 
@@ -36,8 +39,23 @@
 <script src="js/random_piece_generator.js"></script>
 <script src="js/ai.js"></script>
 <script src="js/tuner.js"></script>
+<p id="popups"></p>
 <script>
-    var manager = new GameManager();
+  function insertPrompt() {
+  var popup1 = prompt("Please enter the first weight");
+  var popup2 = prompt("Please enter the second weight");
+  var popup3 = prompt("Please enter the third weight");
+  var popup4 = prompt("Please enter the final weight");
+  if (popup1 != null || popup2 != null || popup3 != null || popup4 != null) {
+    document.getElementById("popups").innerHTML = "The weights have been entered";
+  } else {
+    popup1 = 0.510066;
+    popup2 = 0.760666;
+    popup3 = 0.35663;
+    popup4 = 0.184483;
+    }
+  }
+    var manager = new GameManager(popup1, popup2, popup3, popup4);
 </script>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
