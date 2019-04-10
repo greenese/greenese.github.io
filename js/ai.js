@@ -4,7 +4,7 @@
 * from each game it plays
 * 
 * @author Seth Greene
-* @author Alec Allain
+* @author Alec Allain 
 * @version 4/1/19
 */
 

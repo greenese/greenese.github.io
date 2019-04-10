@@ -1,4 +1,4 @@
-function GameManager(first, second, third, fourth){
+function GameManager(){
     var gridCanvas = document.getElementById('grid-canvas');
     var nextCanvas = document.getElementById('next-canvas');
     var scoreContainer = document.getElementById("score-container");
@@ -10,7 +10,7 @@ function GameManager(first, second, third, fourth){
 
     var grid = new Grid(22, 10);
     var rpg = new RandomPieceGenerator();
-    var ai = new AI(first, second, third, fourth);
+    var ai = new AI(0.51066, 0.760666, 0.35663, 0.184483);
     var workingPieces = [null, rpg.nextPiece()];
     var workingPiece = null;
     var isAiActive = true;
