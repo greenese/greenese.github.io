@@ -117,11 +117,19 @@ Grid.prototype.aggregateHeight = function(){
 };
 
 Grid.prototype.bumpiness = function(){
-    var total = 0;
+    var highestColumnDif = 0;
+    var maxCol = 0;
+    var minCol = 20;
     for(var c = 0; c < this.columns - 1; c++){
-        total += Math.abs(this.columnHeight(c) - this.columnHeight(c+ 1));
+        if(this.columnHeight(c) > maxCol){
+            maxCol = this.columnHeight(c);
+        }
+        if(this.columnHeight(c) < minCol){
+            minCol = this.columnHeight(c);
+        }
     }
-    return total;
+    highestColumnDif = maxCol - minCol;
+    return highestColumnDif;
 }
 
 Grid.prototype.columnHeight = function(column){
