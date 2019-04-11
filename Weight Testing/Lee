@@ -1,0 +1,404 @@
+
+tuner.js:137 Computing fitnesses of initial population...
+tuner.js:154 Computing fitnesses of new candidates. (0)
+tuner.js:161 Average fitness = 72.96153846153847
+tuner.js:162 Highest fitness = 392(0)
+tuner.js:163 Fittest candidate = {"heightWeight":0.5773008706070157,"linesWeight":0.2013012922296214,"holesWeight":0.7062924489152385,"bumpinessWeight":0.35686477992144533,"fitness":392}(0)
+tuner.js:154 Computing fitnesses of new candidates. (1)
+tuner.js:161 Average fitness = 123.125
+tuner.js:162 Highest fitness = 392(1)
+tuner.js:163 Fittest candidate = {"heightWeight":0.5773008706070157,"linesWeight":0.2013012922296214,"holesWeight":0.7062924489152385,"bumpinessWeight":0.35686477992144533,"fitness":392}(1)
+tuner.js:154 Computing fitnesses of new candidates. (2)
+tuner.js:161 Average fitness = 160.4842105263158
+tuner.js:162 Highest fitness = 392(2)
+tuner.js:163 Fittest candidate = {"heightWeight":0.5773008706070157,"linesWeight":0.2013012922296214,"holesWeight":0.7062924489152385,"bumpinessWeight":0.35686477992144533,"fitness":392}(2)
+tuner.js:154 Computing fitnesses of new candidates. (3)
+tuner.js:161 Average fitness = 189.62727272727273
+tuner.js:162 Highest fitness = 393(3)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3621575928318345,"linesWeight":0.3586000338701793,"holesWeight":0.7890721452742654,"bumpinessWeight":0.3429475808557716,"fitness":393}(3)
+tuner.js:154 Computing fitnesses of new candidates. (4)
+tuner.js:161 Average fitness = 212.984
+tuner.js:162 Highest fitness = 393(4)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3621575928318345,"linesWeight":0.3586000338701793,"holesWeight":0.7890721452742654,"bumpinessWeight":0.3429475808557716,"fitness":393}(4)
+tuner.js:154 Computing fitnesses of new candidates. (5)
+tuner.js:161 Average fitness = 230.57857142857142
+tuner.js:162 Highest fitness = 393(5)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3621575928318345,"linesWeight":0.3586000338701793,"holesWeight":0.7890721452742654,"bumpinessWeight":0.3429475808557716,"fitness":393}(5)
+tuner.js:154 Computing fitnesses of new candidates. (6)
+tuner.js:161 Average fitness = 245.44516129032257
+tuner.js:162 Highest fitness = 393(6)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3621575928318345,"linesWeight":0.3586000338701793,"holesWeight":0.7890721452742654,"bumpinessWeight":0.3429475808557716,"fitness":393}(6)
+tuner.js:154 Computing fitnesses of new candidates. (7)
+tuner.js:161 Average fitness = 257.82941176470587
+tuner.js:162 Highest fitness = 393(7)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3621575928318345,"linesWeight":0.3586000338701793,"holesWeight":0.7890721452742654,"bumpinessWeight":0.3429475808557716,"fitness":393}(7)
+tuner.js:154 Computing fitnesses of new candidates. (8)
+tuner.js:161 Average fitness = 268.3162162162162
+tuner.js:162 Highest fitness = 394(8)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(8)
+tuner.js:154 Computing fitnesses of new candidates. (9)
+tuner.js:161 Average fitness = 277.27
+tuner.js:162 Highest fitness = 394(9)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(9)
+tuner.js:154 Computing fitnesses of new candidates. (10)
+tuner.js:161 Average fitness = 285.0279069767442
+tuner.js:162 Highest fitness = 394(10)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(10)
+tuner.js:154 Computing fitnesses of new candidates. (11)
+tuner.js:161 Average fitness = 291.6108695652174
+tuner.js:162 Highest fitness = 394(11)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(11)
+tuner.js:154 Computing fitnesses of new candidates. (12)
+tuner.js:161 Average fitness = 297.5857142857143
+tuner.js:162 Highest fitness = 394(12)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(12)
+tuner.js:154 Computing fitnesses of new candidates. (13)
+tuner.js:161 Average fitness = 302.85
+tuner.js:162 Highest fitness = 394(13)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(13)
+tuner.js:154 Computing fitnesses of new candidates. (14)
+tuner.js:161 Average fitness = 307.4727272727273
+tuner.js:162 Highest fitness = 394(14)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(14)
+tuner.js:154 Computing fitnesses of new candidates. (15)
+tuner.js:161 Average fitness = 311.5551724137931
+tuner.js:162 Highest fitness = 394(15)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(15)
+tuner.js:154 Computing fitnesses of new candidates. (16)
+tuner.js:161 Average fitness = 315.2360655737705
+tuner.js:162 Highest fitness = 394(16)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(16)
+tuner.js:154 Computing fitnesses of new candidates. (17)
+tuner.js:161 Average fitness = 318.6296875
+tuner.js:162 Highest fitness = 394(17)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(17)
+tuner.js:154 Computing fitnesses of new candidates. (18)
+tuner.js:161 Average fitness = 321.6641791044776
+tuner.js:162 Highest fitness = 394(18)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(18)
+tuner.js:154 Computing fitnesses of new candidates. (19)
+tuner.js:161 Average fitness = 324.49857142857144
+tuner.js:162 Highest fitness = 394(19)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(19)
+tuner.js:154 Computing fitnesses of new candidates. (20)
+tuner.js:161 Average fitness = 327.15205479452055
+tuner.js:162 Highest fitness = 394(20)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(20)
+tuner.js:154 Computing fitnesses of new candidates. (21)
+tuner.js:161 Average fitness = 329.5236842105263
+tuner.js:162 Highest fitness = 394(21)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(21)
+tuner.js:154 Computing fitnesses of new candidates. (22)
+tuner.js:161 Average fitness = 331.73417721518985
+tuner.js:162 Highest fitness = 394(22)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(22)
+tuner.js:154 Computing fitnesses of new candidates. (23)
+tuner.js:161 Average fitness = 333.7390243902439
+tuner.js:162 Highest fitness = 394(23)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(23)
+tuner.js:154 Computing fitnesses of new candidates. (24)
+tuner.js:161 Average fitness = 335.64941176470586
+tuner.js:162 Highest fitness = 394(24)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(24)
+tuner.js:154 Computing fitnesses of new candidates. (25)
+tuner.js:161 Average fitness = 337.4215909090909
+tuner.js:162 Highest fitness = 394(25)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(25)
+tuner.js:154 Computing fitnesses of new candidates. (26)
+tuner.js:161 Average fitness = 339.11978021978024
+tuner.js:162 Highest fitness = 394(26)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(26)
+tuner.js:154 Computing fitnesses of new candidates. (27)
+tuner.js:161 Average fitness = 340.68297872340423
+tuner.js:162 Highest fitness = 394(27)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(27)
+tuner.js:154 Computing fitnesses of new candidates. (28)
+tuner.js:161 Average fitness = 342.1721649484536
+tuner.js:162 Highest fitness = 394(28)
+tuner.js:163 Fittest candidate = {"heightWeight":0.3442249130827219,"linesWeight":0.3233826506868835,"holesWeight":0.8080442554162556,"bumpinessWeight":0.35213257693190914,"fitness":394}(28)
+tuner.js:154 Computing fitnesses of new candidates. (29)
+tuner.js:161 Average fitness = 343.568
+tuner.js:162 Highest fitness = 395(29)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(29)
+tuner.js:154 Computing fitnesses of new candidates. (30)
+tuner.js:161 Average fitness = 344.8553398058252
+tuner.js:162 Highest fitness = 395(30)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(30)
+tuner.js:154 Computing fitnesses of new candidates. (31)
+tuner.js:161 Average fitness = 346.05943396226417
+tuner.js:162 Highest fitness = 395(31)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(31)
+tuner.js:154 Computing fitnesses of new candidates. (32)
+tuner.js:161 Average fitness = 347.1752293577982
+tuner.js:162 Highest fitness = 395(32)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(32)
+tuner.js:154 Computing fitnesses of new candidates. (33)
+tuner.js:161 Average fitness = 348.275
+tuner.js:162 Highest fitness = 395(33)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(33)
+tuner.js:154 Computing fitnesses of new candidates. (34)
+tuner.js:161 Average fitness = 349.3095652173913
+tuner.js:162 Highest fitness = 395(34)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(34)
+tuner.js:154 Computing fitnesses of new candidates. (35)
+tuner.js:161 Average fitness = 350.29237288135596
+tuner.js:162 Highest fitness = 395(35)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(35)
+tuner.js:154 Computing fitnesses of new candidates. (36)
+tuner.js:161 Average fitness = 351.24132231404957
+tuner.js:162 Highest fitness = 395(36)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(36)
+tuner.js:154 Computing fitnesses of new candidates. (37)
+tuner.js:161 Average fitness = 352.1185483870968
+tuner.js:162 Highest fitness = 395(37)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(37)
+tuner.js:154 Computing fitnesses of new candidates. (38)
+tuner.js:161 Average fitness = 352.95511811023624
+tuner.js:162 Highest fitness = 395(38)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(38)
+tuner.js:154 Computing fitnesses of new candidates. (39)
+tuner.js:161 Average fitness = 353.7569230769231
+tuner.js:162 Highest fitness = 395(39)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(39)
+tuner.js:154 Computing fitnesses of new candidates. (40)
+tuner.js:161 Average fitness = 354.5075187969925
+tuner.js:162 Highest fitness = 395(40)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(40)
+tuner.js:154 Computing fitnesses of new candidates. (41)
+tuner.js:161 Average fitness = 355.2352941176471
+tuner.js:162 Highest fitness = 395(41)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(41)
+tuner.js:154 Computing fitnesses of new candidates. (42)
+tuner.js:161 Average fitness = 355.9510791366906
+tuner.js:162 Highest fitness = 395(42)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(42)
+tuner.js:154 Computing fitnesses of new candidates. (43)
+tuner.js:161 Average fitness = 356.61408450704226
+tuner.js:162 Highest fitness = 395(43)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(43)
+tuner.js:154 Computing fitnesses of new candidates. (44)
+tuner.js:161 Average fitness = 357.2565517241379
+tuner.js:162 Highest fitness = 395(44)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(44)
+tuner.js:154 Computing fitnesses of new candidates. (45)
+tuner.js:161 Average fitness = 357.86283783783784
+tuner.js:162 Highest fitness = 395(45)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(45)
+tuner.js:154 Computing fitnesses of new candidates. (46)
+tuner.js:161 Average fitness = 358.4973509933775
+tuner.js:162 Highest fitness = 395(46)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(46)
+tuner.js:154 Computing fitnesses of new candidates. (47)
+tuner.js:161 Average fitness = 359.08246753246755
+tuner.js:162 Highest fitness = 395(47)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(47)
+tuner.js:154 Computing fitnesses of new candidates. (48)
+tuner.js:161 Average fitness = 359.6292993630573
+tuner.js:162 Highest fitness = 395(48)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(48)
+tuner.js:154 Computing fitnesses of new candidates. (49)
+tuner.js:161 Average fitness = 360.169375
+tuner.js:162 Highest fitness = 395(49)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(49)
+tuner.js:154 Computing fitnesses of new candidates. (50)
+tuner.js:161 Average fitness = 360.6957055214724
+tuner.js:162 Highest fitness = 395(50)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(50)
+tuner.js:154 Computing fitnesses of new candidates. (51)
+tuner.js:161 Average fitness = 361.2006024096386
+tuner.js:162 Highest fitness = 395(51)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(51)
+tuner.js:154 Computing fitnesses of new candidates. (52)
+tuner.js:161 Average fitness = 361.6828402366864
+tuner.js:162 Highest fitness = 395(52)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(52)
+tuner.js:154 Computing fitnesses of new candidates. (53)
+tuner.js:161 Average fitness = 362.1436046511628
+tuner.js:162 Highest fitness = 395(53)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(53)
+tuner.js:154 Computing fitnesses of new candidates. (54)
+tuner.js:161 Average fitness = 362.6154285714286
+tuner.js:162 Highest fitness = 395(54)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(54)
+tuner.js:154 Computing fitnesses of new candidates. (55)
+tuner.js:161 Average fitness = 363.0483146067416
+tuner.js:162 Highest fitness = 395(55)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(55)
+tuner.js:154 Computing fitnesses of new candidates. (56)
+tuner.js:161 Average fitness = 363.45580110497235
+tuner.js:162 Highest fitness = 395(56)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(56)
+tuner.js:154 Computing fitnesses of new candidates. (57)
+tuner.js:161 Average fitness = 363.86576086956524
+tuner.js:162 Highest fitness = 395(57)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(57)
+tuner.js:154 Computing fitnesses of new candidates. (58)
+tuner.js:161 Average fitness = 364.25882352941176
+tuner.js:162 Highest fitness = 395(58)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(58)
+tuner.js:154 Computing fitnesses of new candidates. (59)
+tuner.js:161 Average fitness = 364.6521052631579
+tuner.js:162 Highest fitness = 395(59)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(59)
+tuner.js:154 Computing fitnesses of new candidates. (60)
+tuner.js:161 Average fitness = 365.020207253886
+tuner.js:162 Highest fitness = 395(60)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(60)
+tuner.js:154 Computing fitnesses of new candidates. (61)
+tuner.js:161 Average fitness = 365.38673469387754
+tuner.js:162 Highest fitness = 395(61)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(61)
+tuner.js:154 Computing fitnesses of new candidates. (62)
+tuner.js:161 Average fitness = 365.73115577889445
+tuner.js:162 Highest fitness = 395(62)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(62)
+tuner.js:154 Computing fitnesses of new candidates. (63)
+tuner.js:161 Average fitness = 366.0747524752475
+tuner.js:162 Highest fitness = 395(63)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(63)
+tuner.js:154 Computing fitnesses of new candidates. (64)
+tuner.js:161 Average fitness = 366.42048780487806
+tuner.js:162 Highest fitness = 395(64)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(64)
+tuner.js:154 Computing fitnesses of new candidates. (65)
+tuner.js:161 Average fitness = 366.74134615384617
+tuner.js:162 Highest fitness = 395(65)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(65)
+tuner.js:154 Computing fitnesses of new candidates. (66)
+tuner.js:161 Average fitness = 367.05829383886254
+tuner.js:162 Highest fitness = 395(66)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(66)
+tuner.js:154 Computing fitnesses of new candidates. (67)
+tuner.js:161 Average fitness = 367.3570093457944
+tuner.js:162 Highest fitness = 395(67)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(67)
+tuner.js:154 Computing fitnesses of new candidates. (68)
+tuner.js:161 Average fitness = 367.652534562212
+tuner.js:162 Highest fitness = 395(68)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(68)
+tuner.js:154 Computing fitnesses of new candidates. (69)
+tuner.js:161 Average fitness = 367.94363636363636
+tuner.js:162 Highest fitness = 395(69)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(69)
+tuner.js:154 Computing fitnesses of new candidates. (70)
+tuner.js:161 Average fitness = 368.22062780269056
+tuner.js:162 Highest fitness = 395(70)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(70)
+tuner.js:154 Computing fitnesses of new candidates. (71)
+tuner.js:161 Average fitness = 368.4933628318584
+tuner.js:162 Highest fitness = 395(71)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(71)
+tuner.js:154 Computing fitnesses of new candidates. (72)
+tuner.js:161 Average fitness = 368.7489082969432
+tuner.js:162 Highest fitness = 395(72)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(72)
+tuner.js:154 Computing fitnesses of new candidates. (73)
+tuner.js:161 Average fitness = 369.01336206896553
+tuner.js:162 Highest fitness = 395(73)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(73)
+tuner.js:154 Computing fitnesses of new candidates. (74)
+tuner.js:161 Average fitness = 369.2659574468085
+tuner.js:162 Highest fitness = 395(74)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(74)
+tuner.js:154 Computing fitnesses of new candidates. (75)
+tuner.js:161 Average fitness = 369.5121848739496
+tuner.js:162 Highest fitness = 395(75)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(75)
+tuner.js:154 Computing fitnesses of new candidates. (76)
+tuner.js:161 Average fitness = 369.73983402489625
+tuner.js:162 Highest fitness = 395(76)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(76)
+tuner.js:154 Computing fitnesses of new candidates. (77)
+tuner.js:161 Average fitness = 369.9844262295082
+tuner.js:162 Highest fitness = 395(77)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(77)
+tuner.js:154 Computing fitnesses of new candidates. (78)
+tuner.js:161 Average fitness = 370.2024291497976
+tuner.js:162 Highest fitness = 395(78)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(78)
+tuner.js:154 Computing fitnesses of new candidates. (79)
+tuner.js:161 Average fitness = 370.4332
+tuner.js:162 Highest fitness = 395(79)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(79)
+tuner.js:154 Computing fitnesses of new candidates. (80)
+tuner.js:161 Average fitness = 370.65612648221344
+tuner.js:162 Highest fitness = 395(80)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(80)
+tuner.js:154 Computing fitnesses of new candidates. (81)
+tuner.js:161 Average fitness = 370.870703125
+tuner.js:162 Highest fitness = 395(81)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(81)
+tuner.js:154 Computing fitnesses of new candidates. (82)
+tuner.js:161 Average fitness = 371.076833976834
+tuner.js:162 Highest fitness = 395(82)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(82)
+tuner.js:154 Computing fitnesses of new candidates. (83)
+tuner.js:161 Average fitness = 371.2770992366412
+tuner.js:162 Highest fitness = 395(83)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(83)
+tuner.js:154 Computing fitnesses of new candidates. (84)
+tuner.js:161 Average fitness = 371.48415094339623
+tuner.js:162 Highest fitness = 395(84)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(84)
+tuner.js:154 Computing fitnesses of new candidates. (85)
+tuner.js:161 Average fitness = 371.675
+tuner.js:162 Highest fitness = 395(85)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(85)
+tuner.js:154 Computing fitnesses of new candidates. (86)
+tuner.js:161 Average fitness = 371.8608856088561
+tuner.js:162 Highest fitness = 395(86)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(86)
+tuner.js:154 Computing fitnesses of new candidates. (87)
+tuner.js:161 Average fitness = 372.0448905109489
+tuner.js:162 Highest fitness = 395(87)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(87)
+tuner.js:154 Computing fitnesses of new candidates. (88)
+tuner.js:161 Average fitness = 372.2187725631769
+tuner.js:162 Highest fitness = 395(88)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(88)
+tuner.js:154 Computing fitnesses of new candidates. (89)
+tuner.js:161 Average fitness = 372.39428571428573
+tuner.js:162 Highest fitness = 395(89)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(89)
+tuner.js:154 Computing fitnesses of new candidates. (90)
+tuner.js:161 Average fitness = 372.57208480565373
+tuner.js:162 Highest fitness = 395(90)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(90)
+tuner.js:154 Computing fitnesses of new candidates. (91)
+tuner.js:161 Average fitness = 372.7506993006993
+tuner.js:162 Highest fitness = 395(91)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(91)
+tuner.js:154 Computing fitnesses of new candidates. (92)
+tuner.js:161 Average fitness = 372.91487889273355
+tuner.js:162 Highest fitness = 395(92)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(92)
+tuner.js:154 Computing fitnesses of new candidates. (93)
+tuner.js:161 Average fitness = 373.07671232876714
+tuner.js:162 Highest fitness = 395(93)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(93)
+tuner.js:154 Computing fitnesses of new candidates. (94)
+tuner.js:161 Average fitness = 373.23694915254237
+tuner.js:162 Highest fitness = 395(94)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(94)
+tuner.js:154 Computing fitnesses of new candidates. (95)
+tuner.js:161 Average fitness = 373.3929530201342
+tuner.js:162 Highest fitness = 395(95)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(95)
+tuner.js:154 Computing fitnesses of new candidates. (96)
+tuner.js:161 Average fitness = 373.5388704318937
+tuner.js:162 Highest fitness = 395(96)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(96)
+tuner.js:154 Computing fitnesses of new candidates. (97)
+tuner.js:161 Average fitness = 373.69309210526313
+tuner.js:162 Highest fitness = 395(97)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(97)
+tuner.js:154 Computing fitnesses of new candidates. (98)
+tuner.js:161 Average fitness = 373.83029315960914
+tuner.js:162 Highest fitness = 395(98)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(98)
+tuner.js:154 Computing fitnesses of new candidates. (99)
+tuner.js:161 Average fitness = 373.97322580645164
+tuner.js:162 Highest fitness = 395(99)
+tuner.js:163 Fittest candidate = {"heightWeight":0.289329765935255,"linesWeight":0.3882080095040985,"holesWeight":0.796541137734333,"bumpinessWeight":0.3620843048208675,"fitness":395}(99)
+
+Runtime: 4.3127 hours
